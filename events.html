@@ -21,63 +21,102 @@
 	<link rel="icon" type="image/png" href="images/favicon.png"/>
 
 </head>
-<body>
 
-	<!-- Header -->
-	<header id="header">
+<!-- Header -->
+<header id="header">
 
-		<h1><a href="index.html">Tau Beta Pi</a></h1>
-		<nav id="nav">
-			<ul>
+	<h1><a href="index.html">Tau Beta Pi</a></h1>
+	<nav id="nav">
+		<ul>
 
-				<li><a href="" class="icon fa-angle-down">About</a>
-					<ul>
-						<li><a href="officers.html">Officer Team</a></li>
-						<li><a href="#">Mission Statement</a></li>
-						<li><a href="#">Membership Benefits</a></li>
-					</ul>
-				</li>
+			<li><a href="" class="icon fa-angle-down">About</a>
+				<ul>
+					<li><a href="officers.html">Officer Team</a></li>
+					<li><a href="#">Mission Statement</a></li>
+					<li><a href="benefits.html">Membership Benefits</a></li>
+				</ul>
+			</li>
 
-				<li><a href="" class="icon fa-angle-down">Initiation</a>
-					<ul>
-						<li><a href="#">Eligibile Initiates</a></li>
-						<li><a href="#">Initiation Requirements</a></li>
-					</ul>
-				</li>
+			<li><a href="" class="icon fa-angle-down">Initiation</a>
+				<ul>
+					<li><a href="requirements.html">Eligibility Requirements</a></li>
+					<li><a href="resources/Candidates_FA2014.pdf">Fall 2014 Candidate List</a></li>
+				</ul>
+			</li>
 
-				<li><a class="icon fa-angle-down">Events</a>
-					<ul>
-						<li><a href="events.html">Calendar</a></li>
-						<li><a href="#">Announcements</a></li>
-					</ul>
-				</li>
+			<li><a class="icon fa-angle-down">Events</a>
+				<ul>
+					<li><a href="events.html">Overview and Calendar</a></li>
+					<li><a href="#">Florence (Coming Soon)</a></li>
+					<li><a href="#">Tutoring (Coming Soon)</a></li>
+				</ul>
+			</li>
 
-				<li><a class="icon fa-angle-down">Resources</a>
-					<ul>
-						<li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
-						<li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
-						<li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
-						<li><a href="resources/Point_Verification_Form.pdf">Point Verification Form</a></li>
-					</ul>
-				</li>
+			<li><a class="icon fa-angle-down">Resources</a>
+				<ul>
+					<li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
+					<li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
+					<li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
+					<li><a href="resources/Members_Points.pdf">Points Sheet (Members Only)</a></li>
+					<li><a href="resources/Initiates_Points.pdf">Points Sheet (Initiates Only)</a></li>
+				</ul>
+			</li>
 
-				<li><a href="contact.html">Contact</a></li>
+			<li><a href="contact.html">Contact</a></li>
 
-			</ul>
-		</nav>
+		</ul>
+	</nav>
+</header>
+
+
+<!-- Main -->
+<section id="main" class="container">
+	<header>
+		<h2>Events and Announcements</h2>
 	</header>
-	<!-- Main -->
-	<section id="main" class="container">
-		<header>
-			<h2>Events and Announcements</h2>
-		</header>
-		<div class="box">
-			<p>
-				<iframe style="border-width: 0;" src="https://www.google.com/calendar/embed?height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=tbp.ucsd%40gmail.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
-			</p>
-		</div>
+	<div class="row">
+		<div class="4u">
+			<section class="box align-center" id="upcoming">
+				<h3><b>Week 4</b></h3>
+				<hr />
+				<h3><a href="https://www.facebook.com/groups/576498382403812/">Dodgeball</a></h3>
+				<p>Sun Oct. 26 @ 8:00PM <br>
+					Location: RIMAC</p>
+					<hr />
+					<h3>TBP Info Sessions</h3>
+					<p>Wed Oct. 29 @ 5:00PM <br>
+						Location: EBU 1 2512
+						<p>Thu Oct. 30 @ 6:00PM <br>
+							Location: EBU 1 4309
+						</p>
+						<hr />
+						<h3>Innertube Water Polo</h3>
+						<p>Wed Oct. 29 @ 7:30PM <br>
+							Location: Natatorium
+						</p>
+						<hr />
+						<h3><a href="https://www.facebook.com/events/1548239695390914/">TBP and HKN BBQ</a></h3>
+						<p>Fri Oct 31 @ 3:00pm <br>
+							Location: Village West Tower Quad</p>
+							<hr />
+							<h3>Weekly Pool</h3>
+							<p>Fri Oct 31 @ 5:00pm <br>
+								Location: Price Center Game Room</p>
+								<hr />
+							</section>
+						</div>
+						<div class="8u">
+							<div class="box">
+								<iframe id="calendar" style="border-width: 0;" src="https://www.google.com/calendar/embed?height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=tbp.ucsd%40gmail.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles" width="100%" height="900" frameborder="0" scrolling="no"></iframe>
+							</div>
+						</div>
+					</div>
 
-	</section>
+				</section>
 
-</body>
-</html>
+			</body>
+			<script type="text/javascript">
+			$("#calendar").height($("#upcoming").height())
+			</script>
+
+			</html>
