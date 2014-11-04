@@ -418,6 +418,10 @@ input[type="radio"] + label:before {
   padding: 1em 2em;
 }
 
+.box.hidden {
+  visibility: hidden;
+}
+
 .box > :last-child {
   margin-bottom: 0;
 }
@@ -623,13 +627,7 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.round img {
-  margin: auto -15px;
-  display: block;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-}
+
 
 /* List */
 
@@ -1232,6 +1230,7 @@ body.landing #skel-layers-wrapper {
 /* Banner */
 
 #banner {
+  font-family: sans-serif;
   background-attachment: scroll, fixed;
   background-color: #666;
   background-image: url("images/overlay.png"), url("../images/generic/geisel.jpg");
@@ -1247,24 +1246,24 @@ body.landing #skel-layers-wrapper {
   margin-bottom: 0;
 }
 
-#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
+#banner h2, #banner h3, #banner h4, #banner h5, #banner h6, #banner p {
   color: #fff;
+  text-shadow: 2.5px 0 black;
 }
 
 #banner h2 {
-  font-size: 3.5em;
+  font-size: 4.0em;
   line-height: 1em;
   margin: 0 0 0.5em 0;
   padding: 0;
 }
 
 #banner p {
-  font-size: 1.25em;
-  margin-bottom: 1.75em;
+  font-size: 1.55em;
+  margin-bottom: 1.45em;
+  letter-spacing: .015em;
 }
 
-#banner input[type="submit"],
-#banner input[type="reset"],
 #banner input[type="button"],
 #banner .button {
   background-color: transparent;
@@ -1273,29 +1272,21 @@ body.landing #skel-layers-wrapper {
   min-width: 12em;
 }
 
-#banner input[type="submit"]:hover,
-#banner input[type="reset"]:hover,
 #banner input[type="button"]:hover,
 #banner .button:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-#banner input[type="submit"]:active,
-#banner input[type="reset"]:active,
 #banner input[type="button"]:active,
 #banner .button:active {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-#banner input[type="submit"].special,
-#banner input[type="reset"].special,
 #banner input[type="button"].special,
 #banner .button.special {
   background: rgba(255,255,255,1);
 }
 
-#banner input[type="submit"].special:hover,
-#banner input[type="reset"].special:hover,
 #banner input[type="button"].special:hover,
 #banner .button.special:hover {
   background: rgba(255,255,255,.8);
@@ -1444,22 +1435,33 @@ body.landing #main {
   color: rgba(255, 255, 255, 0.75) !important;
 }
 
-#officer:hover #overlay {
-  opacity: 1;
-  transition: opacity .35s ease;
+#officer {
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;
 }
 
-#overlay {
-  background:rgba(0,0,0,.75);
-  background-size: contain;
-  text-align:center;
-  padding:100px 0 100px 0;
-  opacity:0;
+#officer img {
+  position: absolute;
+  display: inline;
+  height: 250px;
+  width: 250px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
 }
 
-#plus {  
-  font-family:Helvetica;
-  font-weight:900;
-  color:rgba(255,255,255,.85);
-  font-size:96px;
+#officer img.overlay {
+  opacity: 0;
 }
+
+#officer img.overlay:hover {
+  opacity: .7;
+  transition: opacity 0.3s ease;
+}
+
+.bio {
+  visibility: hidden;
+  display: none;
+}
+
