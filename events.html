@@ -130,7 +130,9 @@
 </body>
 
 <script type="text/javascript">
-  $("#calendar").height($("#upcoming").height())
+  $(window).load(function() {
+      $("#calendar").height($("#upcoming").height())
+      });
   </script>
 
 </html>
