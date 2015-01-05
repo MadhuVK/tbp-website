@@ -9,7 +9,7 @@
   skel.init({
     reset: 'full',
   breakpoints: {
-    global:		{ range: '*', href: 'css/style.css', containers: '70%', grid: { gutters: { vertical: '2em', horizontal: 0 } } },
+    global:		{ range: '*', href: 'css/style.css', containers: '80%', grid: { gutters: { vertical: '2em', horizontal: 0 } } },
   wide:		{ range: '-9999', href: 'css/style-wide.css' },
   normal:		{ range: '-1280', href: 'css/style-normal.css', grid: { gutters: { vertical: '1.5em' } }, viewport: { scalable: false } },
   narrow:		{ range: '-980', href: 'css/style-narrow.css', containers: '90%' },
@@ -104,6 +104,12 @@
 
   }
 
+  });
+
+  $(function() {
+    $(".node").find(".node-title").click(function(e) {
+      $(this).parent().find(".node-contents").slideToggle()
+    });
   });
 
 })(jQuery);
