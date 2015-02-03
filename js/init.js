@@ -112,4 +112,15 @@
     });
   });
 
+    $(function() {
+    $(".overlay").on('click', function() {
+      if ($(this).attr("src").match(/show/)) {
+        $(this).attr("src", "images/overlay_close.jpg");
+      } else {
+        $(this).attr("src", "images/overlay_show.jpg");
+      }
+      $(this).parents(".box").find(".bio").fadeToggle();
+    });
+  });
+
 })(jQuery);
