@@ -2,3 +2,6 @@ RedirectMatch 404 "(?:.*)/(?:\.git|file_or_dir)(?:/.*)?$"
 DirectoryIndex index.php
 RewriteEngine On
 RewriteRule ^index\.php$ / [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]

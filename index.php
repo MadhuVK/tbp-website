@@ -1,77 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Tau Beta Pi, California Psi</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
-  <meta http-equiv="pragma" content="no-cache">
-  <meta name="description" content="This site is under construction." />
-  <meta name="keywords" content="TBP, Tau Beta Pi, UCSD, California Psi, San Diego" />
-  <meta property="og:image" content="http://tbp.ucsd.edu/images/seal.png" />
-  <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery.dropotron.min.js"></script>
-  <script src="js/jquery.scrollgress.min.js"></script>
-  <script src="js/skel.min.js"></script>
-  <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
-  <noscript>
-    <link rel="stylesheet" href="css/skel.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/style-wide.css" />
-  </noscript>
-  <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-  <link rel="icon" type="image/png" href="images/favicon.png"/>
-
+    <?php include('common/head.php') ?>
 </head>
 
 <body class="landing">
 
   <!-- Header -->
   <header id="header" class="alt">
-
-    <h1><a href="./">Tau Beta Pi</a></h1>
-    <nav id="nav">
-      <ul>
-
-        <li><a href="" class="icon fa-angle-down">About</a>
-          <ul>
-            <li><a href="officers.html">Officer Team</a></li>
-            <li><a href="about.html">Mission Statement</a></li>
-            <li><a href="benefits.html">Membership Benefits</a></li>
-          </ul>
-        </li>
-
-        <li><a href="" class="icon fa-angle-down">Initiation</a>
-          <ul>
-            <li><a href="requirements.html">Membership Requirements</a></li>
-            <li><a href="https://www.facebook.com/groups/750791354974513/">FB Page for Initiates</a></li>
-            <li><a href="resources/Candidates_FA2014.pdf">Fall 2014 Candidate List</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Events</a>
-          <ul>
-            <li><a href="events.html">Overview and Calendar</a></li>
-            <li><a href="#">Florence (Coming Soon)</a></li>
-            <li><a href="#">Tutoring (Coming Soon)</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Resources</a>
-          <ul>
-            <li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
-            <li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
-            <li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
-            <li><a href="resources/Members_Points.pdf">Points Sheet (Members Only)</a></li>
-            <li><a href="resources/Initiates_Points.pdf">Points Sheet (Initiates Only)</a></li>
-          </ul>
-        </li>
-
-        <li><a href="contact.html">Contact</a></li>
-
-      </ul>
-    </nav>
+    <?php include('common/header.php') ?>
   </header>
 
   <!-- Banner -->
@@ -80,7 +17,7 @@
     <h2>Tau Beta Pi, California Psi</h2>
     <p>The Premier Engineering Honor Society at UCSD</p>
     <ul class="actions">
-      <li><a href="events.html" class="button special"><b>Week 3 Announcements</b></a></li>
+      <li><a href="events" class="button special"><b>Week 5 Announcements</b></a></li>
     </ul>
   </section>
 
@@ -102,14 +39,14 @@
         <section>
           <p> </p>
           <span class="icon major fa-bolt accent2"></span>
-          <p><a href="requirements.html" class="button alt"><b>Membership Requirements</b></a></p>
+          <p><a href="requirements" class="button alt"><b>Membership Requirements</b></a></p>
           <p> </p>
         </section>
 
         <section>
           <p> </p>
           <span class="icon major fa-area-chart accent3"></span>
-          <p><a href="benefits.html" class="button alt"><b>Membership Benefits</b></a></p>
+          <p><a href="benefits" class="button alt"><b>Membership Benefits</b></a></p>
           <p> </p>
         </section>
 
@@ -119,10 +56,10 @@
 
   </section>
 
-  <!-- CTA -->
-  <section id="cta">
+  <footer>
+    <?php include('common/footer.php') ?>
+  </footer>
 
-  </section>
 
 </body>
 </html>

@@ -1,76 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Tau Beta Pi, California Psi</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
-  <meta http-equiv="pragma" content="no-cache">
-  <meta name="description" content="This site is under construction." />
-  <meta name="keywords" content="" />
-  <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery.dropotron.min.js"></script>
-  <script src="js/jquery.scrollgress.min.js"></script>
-  <script src="js/skel.min.js"></script>
-  <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
-  <noscript>
-    <link rel="stylesheet" href="css/skel.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/style-wide.css" />
-  </noscript>
-  <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-  <link rel="icon" type="image/png" href="images/favicon.png"/>
-
+    <?php include('common/head.php') ?>
 </head>
 
 <body>
 
   <!-- Header -->
   <header id="header">
-
-    <h1><a href="./">Tau Beta Pi</a></h1>
-    <nav id="nav">
-      <ul>
-
-        <li><a href="" class="icon fa-angle-down">About</a>
-          <ul>
-            <li><a href="officers.html">Officer Team</a></li>
-            <li><a href="about.html">Mission Statement</a></li>
-            <li><a href="benefits.html">Membership Benefits</a></li>
-          </ul>
-        </li>
-
-        <li><a href="" class="icon fa-angle-down">Initiation</a>
-          <ul>
-            <li><a href="requirements.html">Membership Requirements</a></li>
-            <li><a href="https://www.facebook.com/groups/750791354974513/">FB Page for Initiates</a></li>
-            <li><a href="resources/Candidates_FA2014.pdf">Fall 2014 Candidate List</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Events</a>
-          <ul>
-            <li><a href="events.html">Overview and Calendar</a></li>
-            <li><a href="#">Florence (Coming Soon)</a></li>
-            <li><a href="#">Tutoring (Coming Soon)</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Resources</a>
-          <ul>
-            <li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
-            <li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
-            <li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
-            <li><a href="resources/Members_Points.pdf">Points Sheet (Members Only)</a></li>
-            <li><a href="resources/Initiates_Points.pdf">Points Sheet (Initiates Only)</a></li>
-          </ul>
-        </li>
-
-        <li><a href="contact.html">Contact</a></li>
-
-      </ul>
-    </nav>
+    <?php include('common/header.php') ?>
   </header>
 
 	<!-- Main -->
@@ -122,5 +60,9 @@
 			</section>
 		</div>
 	</section>
+
+  <footer>
+    <?php include('common/footer.php') ?>
+  </footer>
 </body>
 </html>

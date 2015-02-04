@@ -1,76 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Tau Beta Pi, California Psi</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
-  <meta http-equiv="pragma" content="no-cache">
-  <meta name="description" content="This site is under construction." />
-  <meta name="keywords" content="" />
-  <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery.dropotron.min.js"></script>
-  <script src="js/jquery.scrollgress.min.js"></script>
-  <script src="js/skel.min.js"></script>
-  <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
-  <noscript>
-    <link rel="stylesheet" href="css/skel.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/style-wide.css" />
-  </noscript>
-  <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-  <link rel="icon" type="image/png" href="images/favicon.png"/>
-
+    <?php include('common/head.php') ?>
 </head>
 
 <body>
 
   <!-- Header -->
   <header id="header">
-
-    <h1><a href="./">Tau Beta Pi</a></h1>
-    <nav id="nav">
-      <ul>
-
-        <li><a href="" class="icon fa-angle-down">About</a>
-          <ul>
-            <li><a href="officers.html">Officer Team</a></li>
-            <li><a href="about.html">Mission Statement</a></li>
-            <li><a href="benefits.html">Membership Benefits</a></li>
-          </ul>
-        </li>
-
-        <li><a href="" class="icon fa-angle-down">Initiation</a>
-          <ul>
-            <li><a href="requirements.html">Membership Requirements</a></li>
-            <li><a href="https://www.facebook.com/groups/750791354974513/">FB Page for Initiates</a></li>
-            <li><a href="resources/Candidates_FA2014.pdf">Fall 2014 Candidate List</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Events</a>
-          <ul>
-            <li><a href="events.html">Overview and Calendar</a></li>
-            <li><a href="#">Florence (Coming Soon)</a></li>
-            <li><a href="#">Tutoring (Coming Soon)</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Resources</a>
-          <ul>
-            <li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
-            <li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
-            <li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
-            <li><a href="resources/Members_Points.pdf">Points Sheet (Members Only)</a></li>
-            <li><a href="resources/Initiates_Points.pdf">Points Sheet (Initiates Only)</a></li>
-          </ul>
-        </li>
-
-        <li><a href="contact.html">Contact</a></li>
-
-      </ul>
-    </nav>
+    <?php include('common/header.php') ?>
   </header>
 
   <!-- Main -->
@@ -84,14 +22,12 @@
       <div class="row"></div>
     </div>
 
-
-
     <div class="row">
       <div class="6u">
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Tiffany.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Tiffany Kyi</b> <br />
           Co-President<br />
@@ -109,7 +45,7 @@
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Kristine.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Kristine Tan</b><br />
@@ -130,7 +66,7 @@
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Delara.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Delara Fadavi</b>
           <br />VP External<br />
@@ -148,7 +84,7 @@
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Anthony.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Anthony Nguyen</b>
@@ -169,7 +105,7 @@
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Spencer.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Spencer Wilson</b>
           <br />Master of Coin<br />
@@ -187,7 +123,7 @@
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Melody.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Melody Dong</b>
@@ -207,7 +143,7 @@
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Richard.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Richard Hsiao</b>
           <br />Social Chair<br />
@@ -224,7 +160,7 @@ Hey, I'm Richard and I'm the social chair for TBP. I'm in charge for planning th
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Felipe.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Felipe Chen</b>
@@ -245,7 +181,7 @@ Hey, I'm Richard and I'm the social chair for TBP. I'm in charge for planning th
         <section class="box">
           <div class="officer left">
             <img src="images/officers/David.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>David Leung</b>
           <br />Tutoring Chair<br />
@@ -263,7 +199,7 @@ the world of Costco’s free food samples.            </h5>
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Cindy.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Cindy Trinh</b>
@@ -283,7 +219,7 @@ Hey, I'm Cindy. I'm a fourth year Bioengineering major and this year's Outreach 
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Jules.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Jules Wada</b>
           <br />Community Service Co-Chair<br />
@@ -301,7 +237,7 @@ Hey, I'm Cindy. I'm a fourth year Bioengineering major and this year's Outreach 
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Aaron.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Aaron Gee</b>
@@ -322,7 +258,7 @@ Hey, I'm Cindy. I'm a fourth year Bioengineering major and this year's Outreach 
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Ayesha.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Ayesha Mazumdar</b>
           <br />Historian<br />
@@ -339,7 +275,7 @@ Hello! I'm Ayesha, a fourth year Computer Science major and Tau Beta Pi's Histor
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Madhu.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Madhu Krishnan</b>
@@ -359,7 +295,7 @@ Hello! I'm Ayesha, a fourth year Computer Science major and Tau Beta Pi's Histor
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Amy.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Amy Chung</b>
           <br />TESC Representative<br />
@@ -367,7 +303,7 @@ Hello! I'm Ayesha, a fourth year Computer Science major and Tau Beta Pi's Histor
           </p>
           <div class="bio">
             <h5>
-Hi there! I'm Amy and I am a third year Chemical Engineering student from Marshall College, as well at TBP's TESC Representative! When I''m not doing ChemE related stuff, I like food (making and eating) and love film and cinema. If you ever want film recs or have recommended movies, old and new, feel free to ask or let me know!              </h5>
+Hi there! I'm Amy and I am a third year Chemical Engineering student from Marshall College, as well at TBP's TESC Representative! When I'm not doing ChemE related stuff, I like food (making and eating) and love film and cinema. If you ever want film recs or have recommended movies, old and new, feel free to ask or let me know!              </h5>
             </div>
         </section>
       </div>
@@ -376,7 +312,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Nazanin.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Nazanin Nourani</b>
@@ -397,7 +333,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Jesse.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Jesse Qin</b>
           <br />CSE Representative<br />
@@ -415,7 +351,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Sammie.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Sammie Wang</b>
@@ -435,7 +371,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Joseph.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Joseph To</b>
           <br />MAE Representative<br />
@@ -452,7 +388,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer right">
             <img src="images/officers/Thomas.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Thomas Arnold</b>
@@ -472,7 +408,7 @@ Hi there! I'm Amy and I am a third year Chemical Engineering student from Marsha
         <section class="box">
           <div class="officer left">
             <img src="images/officers/Carolina.jpg" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Carolina Jauregui</b>
           <br />SE Representative<br />
@@ -489,7 +425,7 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
         <section class="box">
           <div class="officer right">
             <img src="images/generic_officer.png" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
 
           <p><b>Christopher Lau</b><br />Advisor<br /></p>
@@ -502,7 +438,7 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
         <section class="box">
           <div class="officer left">
             <img src="images/generic_officer.png" alt=""/>
-            <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
           </div>
           <p><b>Lori Jue</b><br />Advisor</p>
         </section>
@@ -512,7 +448,7 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
       <section class="box">
         <div class="officer right">
           <img src="images/generic_officer.png" alt=""/>
-          <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
         </div>
 
         <p><b>Justin Ow</b><br />Advisor</p>
@@ -525,7 +461,7 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
       <section class="box">
         <div class="officer left">
           <img src="images/generic_officer.png" alt=""/>
-          <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
         </div>
         <p><b>Richard C. Ord</b><br />Faculty Advisor</p>
       </section>
@@ -535,7 +471,7 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
       <section class="box">
         <div class="officer right">
           <img src="images/generic_officer.png" alt=""/>
-          <img class="overlay" src="images/overlay_show.jpg" alt=""/>
+            <a href="javascript:void(0)"><img class="overlay" src="images/overlay_show.jpg" alt=""/></a>
         </div>
 
         <p><b>Dr. Geoffrey M. Voelker</b><br />Chief Advisor</p>
@@ -544,6 +480,10 @@ Hello, I'm Carolina and I am the SE Representative for TBP, aka the lone wolf of
   </div>
 
   </section>
+
+  <footer>
+    <?php include('common/footer.php') ?>
+  </footer>
 </body>
 
 </html>

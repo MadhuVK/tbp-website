@@ -1,77 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Tau Beta Pi, California Psi</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Expires" content="Tue, 01 Jan 1980 1:00:00 GMT">
-  <meta http-equiv="pragma" content="no-cache">
-  <meta http-equiv="expires" content="0">
-  <meta name="description" content="This site is under construction." />
-  <meta name="keywords" content="" />
-  <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery.dropotron.min.js"></script>
-  <script src="js/jquery.scrollgress.min.js"></script>
-  <script src="js/skel.min.js"></script>
-  <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
-  <noscript>
-    <link rel="stylesheet" href="css/skel.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/style-wide.css" />
-  </noscript>
-  <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-  <link rel="icon" type="image/png" href="images/favicon.png"/>
-
+    <?php include('common/head.php') ?>
 </head>
 
 <body>
 
   <!-- Header -->
   <header id="header">
-
-    <h1><a href="./">Tau Beta Pi</a></h1>
-    <nav id="nav">
-      <ul>
-
-        <li><a href="" class="icon fa-angle-down">About</a>
-          <ul>
-            <li><a href="officers.html">Officer Team</a></li>
-            <li><a href="about.html">Mission Statement</a></li>
-            <li><a href="benefits.html">Membership Benefits</a></li>
-          </ul>
-        </li>
-
-        <li><a href="" class="icon fa-angle-down">Initiation</a>
-          <ul>
-            <li><a href="requirements.html">Membership Requirements</a></li>
-            <li><a href="https://www.facebook.com/groups/750791354974513/">FB Page for Initiates</a></li>
-            <li><a href="resources/Candidates_FA2014.pdf">Fall 2014 Candidate List</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Events</a>
-          <ul>
-            <li><a href="events.html">Overview and Calendar</a></li>
-            <li><a href="#">Florence (Coming Soon)</a></li>
-            <li><a href="#">Tutoring (Coming Soon)</a></li>
-          </ul>
-        </li>
-
-        <li><a class="icon fa-angle-down">Resources</a>
-          <ul>
-            <li><a href="resources/Technical_Interviewing.pdf">Technical Interviewing Tips</a></li>
-            <li><a href="resources/Academic_Honesty_Statement.pdf">Academic Honesty Statement</a></li>
-            <li><a href="resources/Faculty_Rating_Form.pdf">Faculty Rating Form</a></li>
-            <li><a href="resources/Members_Points.pdf">Points Sheet (Members Only)</a></li>
-            <li><a href="resources/Initiates_Points.pdf">Points Sheet (Initiates Only)</a></li>
-          </ul>
-        </li>
-
-        <li><a href="contact.html">Contact</a></li>
-
-      </ul>
-    </nav>
+    <?php include('common/header.php') ?>
   </header>
 
 	<!-- Main -->
@@ -84,13 +21,27 @@
 		<div class="box features">
 			<span class="image featured"><img src="images/pool.jpg" alt="" /></span>
 			<h3>Overview</h3>
-			<p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. Invitations to eligible students are mailed out during Weeks 3 and 4 of the Fall and Winter academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, students must have completed over 135 units. After invitations are sent out, info sessions are held for the the invited students to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), we look for two main things when electing new members into TBP. The first is academic excellence, which all of you have obviously attained. The second, and perhaps the more important of the two, is outstanding character. In order to better judge this, we would like to get to know you better. Thus, we ask that you submit a candidate packet with some information about yourself, as well as participate in events with our members. After reviewing your packets, we will conduct individual interviews. At this point, we will invite those people who we feel exemplify the qualities we are looking for to initiate into TBP. <b>Once you initiate, you are a lifetime member.</b></p>
+			<p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. 
+        Invitations to eligible students are mailed out during Weeks 3 and 4 of the Fall and Winter 
+        academic quarters to shtudents in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. 
+        For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, 
+        students must have completed over 135 units. 
+        <br /><br />After invitations are sent out, info sessions are held for the the invited students 
+        to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), we look 
+        for two main things when electing new members into TBP. The first is academic excellence, which all of you have obviously attained. 
+        The second, and perhaps the more important of the two, is outstanding character. In order to better judge this, we would like to get 
+        to know you better. Thus, we ask that you submit a candidate packet with some information about yourself, as well as participate in events 
+        with our members. After reviewing your packets, we will conduct individual interviews. At this point, we will invite those people who we 
+        feel exemplify the qualities we are looking for to initiate into TBP. 
+        <br /><br /><b>Once you initiate, you are a lifetime member.</b> lIf you continue to
+        come to UCSD's Tau Beta Pi events and retain active membership, you will be eligible for chapter benefits. Please see 
+        <a href="benefits">our benefits page</a> for more details.</p>
 			<section class="features-row">
         <section>
 					<h3><u>Candidate Packages</u></h3>
 
 					<p>
-						The following materials should be collected in a 9″x12″ envelope with your name, major, and year on the front. Submit to the Tau Beta Pi Mailbox on the third floor of Price Center East (ask the Onestop desk if you need help finding it). The submission deadline for the current Initiation Cycle is <b>6:30pm on January 9, 2015</b>.
+						The following materials should be collected in a 9″x12″ envelope with your name, major, and year on the front. Submit to the Tau Beta Pi Mailbox on the third floor of Price Center East (ask the Onestop desk if you need help finding it). The submission deadline for the current Initiation Cycle is <b>TBA</b>.
 
             <ul>
 
@@ -140,13 +91,15 @@
             </li>
           </ul>
 
+          All required documents can be found in <a href="resources/packet.zip">this archive</a> (also found under the Resources tab).
+
 					</p>
 
 				</section>
         
 				<section>
 					<h3><u>Points Requirement</u></h3>
-					<p>We require eligible initiates to fill out <a href="resources/Initiates_Points.pdf">a point verification form</a> over the course of their Initiation Cycle.
+					<p>We require eligible initiates to fill out <a href="resources/Initiate_Points.pdf">a point verification form</a> over the course of their Initiation Cycle.
 						<ul>
 							<li>3 points must be from Social/House events (at least one individual house and one all-house competition)</li>
 							<li>3 points must be from Academic/Professional events (including a <b>mandatory resumé critique</b>)</li>
@@ -160,18 +113,22 @@
 			<section class="features-row">
 				<section>
 					<h3><u>Interviews</u></h3>
-					<p>Interviews will be scheduled. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. Business attire is required.
+					<p>Interviews will be scheduled. These are primarily an opportunity for the Tau Beta Pi members to get to know you, but will also be used to assess your character and what you may bring to the organization. It is important that the information packet be turned in on time so that the members can learn about you before the interview. We will schedule interviews by e-mail during the weeks prior to the interviews. <b> Business attire is required. </b> Anyone who is not dressed properly will be asked to leave and come back on a later date. </b>
 					</p>
 				</section>
 				<section>
 					<h3><u>Initation Ceremony</u></h3>
-					<p><b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! Business attire is required for this event. <b>A one-time lifetime membership fee of $100</b> (made payable to “UCSD Tau Beta Pi”) is due on the night of Initiation. This fee covers chapter operating costs, dues to TBP national headquarters, cost of Initiation materials, and the initiate banquet.
-					The date of the Initiation Ceremony for the Winter Cycle is <b>Friday, January 30, 2015</b>.
+					<p><b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of $100</b> (made payable to “UCSD Tau Beta Pi”) is due on the night of Initiation. This fee covers chapter operating costs, dues to TBP national headquarters, cost of Initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony. 
+					The date of the Initiation Ceremony for the Spring Cycle is <b>TBA</b>.
 					</p>
 				</section>
 			</section>
 		</div>
 	</section>
+
+  <footer>
+    <?php include('common/footer.php') ?>
+  </footer>
 </body>
 
 </html>
