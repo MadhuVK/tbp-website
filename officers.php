@@ -107,7 +107,7 @@
 
       <div class="6u">
         <section class="box">
-          <div class="officer officer right">
+          <div class="officer right">
             <img src="images/officers/Kristine.jpg" alt=""/>
             <img class="overlay" src="images/overlay_show.jpg" alt=""/>
           </div>

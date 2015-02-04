@@ -1,0 +1,4 @@
+RedirectMatch 404 "(?:.*)/(?:\.git|file_or_dir)(?:/.*)?$"
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^index\.php$ / [R=301,L]
