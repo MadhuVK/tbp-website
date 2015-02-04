@@ -14,9 +14,9 @@
 
     <li><a href="" class="icon fa-angle-down">Initiation</a>
       <ul>
+        <li><a href="https://www.facebook.com/groups/844605288934403/">FB Page for Initiates</a></li>
         <li><a href="resources/Candidates_WI2015.pdf">Winter 2015 Candidate List</a></li>
         <li><a href="#">All-House Competition (Coming Soon)</a></li>
-        <!-- <li><a href="https://www.facebook.com/groups/750791354974513/">FB Page for Initiates</a></li> -->
       </ul>
     </li>
 
