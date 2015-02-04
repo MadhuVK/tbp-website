@@ -9,7 +9,7 @@
 	visibility: visible;
 }
 
-#officer img.overlay {
+.officer img.overlay {
 	display: none;
 }
 
