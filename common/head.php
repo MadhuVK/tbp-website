@@ -10,11 +10,11 @@
   <script src="js/jquery.scrollgress.min.js"></script>
   <script src="js/skel.min.js"></script>
   <script src="js/skel-layers.min.js"></script>
-  <script src="js/init.js"></script>
+<script src="js/init.js?<?php echo time() ?>"></script>
   <noscript>
-  	<link rel="stylesheet" href="css/skel.css" />
-  	<link rel="stylesheet" href="css/style.css" />
-  	<link rel="stylesheet" href="css/style-wide.css" />
+  	<link rel="stylesheet" href="css/skel.css?<?php echo time() ?>" />
+  	<link rel="stylesheet" href="css/style.css?<?php echo time() ?>" />
+  	<link rel="stylesheet" href="css/style-wide.css?<?php echo time() ?>" />
   </noscript>
   <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
   <link rel="icon" type="image/png" href="images/favicon.png"/>
