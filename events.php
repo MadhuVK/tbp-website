@@ -30,7 +30,10 @@
         <li>The Spring 2015 cycle is about to start. If any of our current mbmers would like to help out by becoming involved in
             a committee or speaking at a Tau Beta Pi Initiate Informational Session, please email one of our <a href="officers">officers</a>.</li>
             <hr />
-        <li>Weekly Pool has moved to 5:00-6:00PM in order to accomodate more people.</li>
+        <li><b>Volunteer and earn DECaf Points for TBP! (1pt/hr - Community Service)</b> <br /> Want to help Tau Beta Pi earn funding while volunteering to support UCSD's engineering community? The Triton Engineering Student Council (TESC) and other engineering orgs on campus are hosting events all week during E-Week, February 17-20. Volunteering at any of the events this week will not only earn you points toward Initiation and active membership, but will also help Tau Beta Pi earn funding for future events! Also, volunteering at certain events such as DECaF can give you the opportunity to speak personally with recruiters and gain experience with engineering events. <br />
+<b>Sign up to volunteer for E-Games (2/17) <a href=https://docs.google.com/forms/d/1iyBlTlrzwyZwdCePpmyyWzzwI7Z_3o1_mWvH50QRFRI/viewform">here</a>. </b><br />
+<b>Sign up to volunteer for DECaF (2/20) <a href="http://www.slottr.com/sheets/77098">here</a>. </b><br />
+If you have any questions about signing up or volunteering, feel free to contact <a href="mailto:tkyi@ucsd.edu">Tiffany Kyi</a>. Please note that in order for your volunteer points to count, <b>you MUST sign-up and sign-in as a member of Tau Beta Pi</b> on TESC's volunteer log. </li>
             <hr />
     </ol>
 
@@ -38,27 +41,27 @@
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 5</b></h3>
+        <h3><b>Week 6</b></h3>
         <hr />
         <h3>Florence Elementary </a></h3>
         <p>
-        Event Type: Professional<br>
-        Fri Feb. 06 | 8:30AM - 10:30AM <br>
+        Event Type: Outreach<br>
+        Fri Feb. 13 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a><br>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Feb. 06 | 5:00PM - 6:00PM <br>
+        Fri Feb. 13 | 5:00PM - 6:00PM <br>
         Location: Price Center Game Room<br>
         </p>
         <hr />
-        <h3>IM Soccer</h3>
+        <h3>House Sorting</h3>
         <p>
-        Event Type: Social<br>
-        Sat Feb. 07 | 3:00PM - 4:00PM <br>
-        Location: North Campus Rec Field 1<br>
+        Event Type: House Competition<br>
+        Mon Feb. 16 | 6:00PM - 8:00PM <br>
+        Location: Jacobs Hall, Rm 2512 (Henry Booker)<br>
         </p>
         <hr />
         </section>
