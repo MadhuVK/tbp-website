@@ -30,7 +30,7 @@
         <h2>Welcome!</h2>
         <p>We are the UCSD chapter of <b>Tau Beta Pi</b>, the premier <b>engineering honor society</b> in the United States and one of the top three honor societies in the nation. Members are admitted based on demonstration of <b>superior scholarship</b> and <b>exemplary character</b>, evidenced through their personal integrity, breadth of interest, and charitable activity. We focus on serving our members and the public with enthusiasm and distinction, and strive to promote excellence in the fields of engineering and engineering education.</p>
       </header>
-      <span class="image featured"><img src="images/initiation/FA2013.jpg" alt=""/></span>
+      <span class="image featured"><img src="images/initiation/FA2014.jpg" alt=""/></span>
     </section>
 
     <section class="box special features">
