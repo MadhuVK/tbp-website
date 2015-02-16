@@ -32,19 +32,27 @@
 					</p>
 				</section>
 				<section>
-          <h3><u>Leadership Opportunities</u></h3>
-          <p>
-            Members have the opportunity to apply to the 20 officer positions available at the UCSD CA Psi chapter of Tau Beta Pi. This is an excellent opportunity to become more involved in the engineering community and encourage professional development. Officers work extensively with other engineering orgs throughout the year, in addition to external involvement with TBP headquarters. <br /> <br />
+					<h3><u>Chapter Benefits &amp; Active Membership</u></h3>
+					In order to receive these benefits, TBP members need be <b> active </b> in the chapter. To be considered an active member, we ask that you continue to come to our events and fill out the <a href="resources/Member_Points.pdf">Active Member Point Sheet</a>. In addition, we ask that members vote on proposed annual amendments that are assigned to the chapter by TBP Headquarters.
+					In order to be considered active for <b> next quarter </b>, we ask that members complete 8 hours in any category. <br /> <br />
 
-            We encourage members interested in becoming officers to become house leaders, where they will be involved in the initiation process and help encourage the next generation of Tau Beta Pi members.
-          </p>
-
+					By staying an active member, you are eligible to receive
+					<ul>
+						<li>Subsidies on TBP stole and cords for graduation</li>
+						<li>Free TBP chapter t-shirt</li>
+						<li>Higher subsidies for future TBP events</li>
+					</ul>
 				</section>
 			</section>
 			<section class="features-row">
 				<section>
-					<h3><u>Chapter Benefits</u></h3>
-          Coming soon...
+          <h3><u>Leadership Opportunities</u></h3>
+          <p>
+            Members have the opportunity to apply to the 20 officer positions available at the UCSD CA Psi chapter of Tau Beta Pi. This is an excellent opportunity to become more involved in the engineering community and encourage professional development. Officers work extensively with other engineering orgs throughout the year, in addition to external involvement with TBP headquarters. <br /> <br />
+
+            We encourage members interested in becoming officers to become house leaders, where they will be involved in the initiation process and help encourage the next generation of Tau Beta Pi members. In addition, please feel free to contact any of the <a href="officers">officers</a> if you have interest in joining a committee.
+          </p>
+
 				</section>
 				<section>
 				<h3><u>Networking Opportunities</u></h3>
