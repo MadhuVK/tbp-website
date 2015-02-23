@@ -32,8 +32,30 @@ In order to be an active member (and to get the full benefits from our chapter),
 <li><a href="http://www.tbp.org/conv/2014/2014-Minutes.pdf">Convention Minutes</a></li>
 <li><a href="http://www.tbp.org/conv/2014/2014-Ratification-Ballot.pdf">Ratification Ballot</a></li>
 </ul>
-Please fill out this ballot by 11:59pm on Friday, March 13, 2015.  
+Please fill out this ballot by <b>11:59pm on Friday, March 13, 2015</b>.
 If you have any questions, feel free to message <a href="mailto:melodyd494@gmail.com">Melody</a>
+      </li>
+      <br />
+      <li>
+        <b>Non-TBP Hosted Events for Points</b> <br />
+        Events not hosted by Tau Beta Pi or not listed on our calendar, 
+        may still be eligible for points. In order to receive points for these events, 
+        members and/or initiates must write a one-page write up of the event, 
+        including an event description as well as why you believe it should count 
+        as an event and how it follows TBP's goals. A picture must also be shown as 
+        proof of event attendance. You will then need to email the write-up to an officer 
+        for approval before getting the points signed off and just include the picture with that. 
+        And then once you've written that and after the officers have approved it, you can bring your
+        point sheet to the next event you attend and have an officer sign your form then.
+      </li>
+      <br />
+      <li>
+        <b>Tau Beta Pi National Scholarship Applications</b> <br />
+        Current Tau Beta Pi members or initiates that will be members by June 1st 
+        that are planning to take at least two quarters of full-time undergraduate 
+        study in engineering on campus in 2015-16 are eligible to apply for 
+        Tau Beta Pi's scholarships. There is $1,000 to $2,000 <a href="http://www.tbp.org/scholarships.cfm">Scholarship</a>
+        for the 2015-16 academic year. Applications are due by May 1st, 2015. Register <a href="http://www.tbp.org/TBPAPPS">here</a> to receive an application. 
       </li>
     </ol>
 
@@ -41,55 +63,27 @@ If you have any questions, feel free to message <a href="mailto:melodyd494@gmail
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 7</b></h3>
-        <hr />
-        <h3>House Sorting</h3>
-        <p>
-        Event Type: House Competition<br>
-        Mon Feb. 16 | 6:00PM - 8:00PM <br>
-        Location: EBU1 Rm 2512 (Henry Booker)<br>
-        </p>
-        <hr />
-        <h3><a href="http://tesc.ucsd.edu/volunteer">E-Week Volunteering</a></h3>
-        <p>
-        Event Type: Community Service <br>
-        Fri Feb. 17 - Feb. 20<br>
-        Note: Specify TBP as the organization to receive hours
-        </p>
-        <hr />
-        <h3><a href="https://docs.google.com/forms/d/1h0hllhxQBj9NuLhPKrlGROBsOXUdYGsB5GWjh0Amw20/viewform">Alumni Mixer (RSVP)</a></h3>
-        <p>
-        Event Type: Professional<br>
-        Tue Feb. 17 | 7:00PM - 9:00PM <br>
-        Location: EBU2 Rm 479<br>
-        </p>
-        <hr />
-        <h3>Resume Critique</h3>
-        <p>
-        Event Type: Professional<br>
-        Wed Feb. 18 | 8:00PM - 10:00PM <br>
-        Location: EBU1 Rm 2512 (Henry Booker)<br>
-        </p>
+        <h3><b>Week 8</b></h3>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Feb. 20 | 8:30AM - 10:30AM <br>
+        Fri Feb. 27 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a><br>
-        </p>
-        <hr />
-        <h3>DECaF</h3>
-        <p>
-        Event Type: Professional<br>
-        Fri Feb. 20 | 9:30AM - 2:00PM <br>
-        Location: PC Ballrooms East and West<br>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Feb. 20 | 5:00PM - 6:00PM <br>
+        Fri Feb. 27 | 5:00PM - 6:00PM <br>
         Location: Price Center Game Room<br>
+        </p>
+        <hr />
+        <h3><a href="http://goo.gl/forms/RGRWiy7ns1">Ice Skating (RSVP)</a></h3>
+        <p>
+        Event Type: Social<br>
+        Fri Feb. 27 | 6:00PM - 9:00PM <br>
+        Location: Behind EBU1 for Rides <br /> <a href="https://goo.gl/maps/1b4qh">San Diego Ice Rink</a><br>
         </p>
         <hr />
         </section>
