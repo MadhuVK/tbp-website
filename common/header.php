@@ -14,9 +14,9 @@
 
     <li><a href="" class="icon fa-angle-down">Initiation</a>
       <ul>
+        <li><a href="resources/House_SP2015.pdf">House Roster</a></li>
         <li><a href="https://www.facebook.com/groups/844605288934403/">FB Page for Initiates</a></li>
         <li><a href="resources/Candidates_SP2015.pdf">Spring 2015 Candidate List</a></li>
-        <li><a href="resources/House_SP2015.pdf">All-House Competition</a></li>
       </ul>
     </li>
 
