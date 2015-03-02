@@ -24,6 +24,17 @@
     </section>
     <ol>
       <li>
+        <b> All-House Competition </b> <br />
+        The <b>house roster</b> for the Spring 2015 Cycle is now available and can be found 
+        <a href="resources/House_SP2015.pdf">here</a> (also located under the Initiation tab). 
+        If you could not make it to House Sorting, please check the house roster to see which 
+        house you are a part of. Also be sure to support your house by 
+        earning points through house events and the All-House Competitions! If your name is not 
+        listed on the roster, please contact <a href="mailto:fcchen@ucsd.edu">Felipe Chen</a> so that he can 
+        sort you into a house as soon as possible. 
+      </li>
+      <br />
+      <li>
         <b> <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">Ratification Ballot</a> (Required to be an active member) </b> <br />
         We need you to vote on the annual TBP Ratification Ballot for proposed amendments to the national TBP Constitution and Bylaws. The responses from these ballots are required by all national TBP chapters so it is important that you vote <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">here</a>. 
 In order to be an active member (and to get the full benefits from our chapter), you will need to vote on the proposed amendments in addition to the point requirement.  
