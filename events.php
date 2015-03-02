@@ -20,7 +20,7 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Announcements</u></h2>
+    <h2><u>Week 9 Announcements</u></h2>
     </section>
     <ol>
       <li>
@@ -63,27 +63,49 @@ If you have any questions, feel free to message <a href="mailto:melodyd494@gmail
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 8</b></h3>
+        <h3><b>Week 9 </b></h3>
+        <hr />
+        <h3><a href="https://www.facebook.com/events/771979606204414">
+          Medtronic Info Session</a></h3>
+        <p>
+        Event Type: Professional<br>
+        Wed Mar. 04 | 6:30PM - 8:00PM <br>
+        Location: Fung Auditorium <br>
+        </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Feb. 27 | 8:30AM - 10:30AM <br>
+        Fri Mar. 06 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a><br>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Feb. 27 | 5:00PM - 6:00PM <br>
-        Location: Price Center Game Room<br>
+        Fri Mar. 06 | 5:00PM - 6:00PM <br>
+        Location: Price Center Game Room
         </p>
         <hr />
-        <h3><a href="http://goo.gl/forms/RGRWiy7ns1">Ice Skating (RSVP)</a></h3>
+        <h3>Green House Board Game Night</h3>
         <p>
-        Event Type: Social<br>
-        Fri Feb. 27 | 6:00PM - 9:00PM <br>
-        Location: Behind EBU1 for Rides <br /> <a href="https://goo.gl/maps/1b4qh">San Diego Ice Rink</a><br>
+        Event Type: House<br>
+        Fri Mar. 06 | 6:00PM - 8:00PM <br>
+        Location: Price Center - Tapioca Express<br>
+        </p>
+        <hr />
+        <h3>Point Loma Plant Gardening</h3>
+        <p>
+        Event Type: Community Service<br>
+        Sat Mar. 07 | 9:00AM - 11:00AM <br>
+        Location: Meet at Peterson Loop at <b>8:15AM</b><br>
+        </p>
+        <hr />
+        <h3>Red House Movie Night</h3>
+        <p>
+        Event Type: House<br>
+        Sat Mar. 07 | 5:00PM - 8:00PM <br>
+        Location: TBA<br>
         </p>
         <hr />
         </section>
