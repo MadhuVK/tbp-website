@@ -20,22 +20,11 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 9 Announcements</u></h2>
+    <h2><u>Week 10 Announcements</u></h2>
     </section>
     <ol>
       <li>
-        <b> All-House Competition </b> <br />
-        The <b>house roster</b> for the Spring 2015 Cycle is now available and can be found 
-        <a href="resources/House_SP2015.pdf">here</a> (also located under the Initiation tab). 
-        If you could not make it to House Sorting, please check the house roster to see which 
-        house you are a part of. Also be sure to support your house by 
-        earning points through house events and the All-House Competitions! If your name is not 
-        listed on the roster, please contact <a href="mailto:fcchen@ucsd.edu">Felipe Chen</a> so that he can 
-        sort you into a house as soon as possible. 
-      </li>
-      <br />
-      <li>
-        <b> <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">Ratification Ballot</a> (Required to be an active member) </b> <br />
+        <b> <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">Ratification Ballot (DUE FRIDAY)</a> (Required to be an active member) </b> <br />
         We need you to vote on the annual TBP Ratification Ballot for proposed amendments to the national TBP Constitution and Bylaws. The responses from these ballots are required by all national TBP chapters so it is important that you vote <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">here</a>. 
 In order to be an active member (and to get the full benefits from our chapter), you will need to vote on the proposed amendments in addition to the point requirement.  
 <br /><br />The following are links to the Convention Minutes with the proposed amendments and the official Ratification Ballot (for reference only):
@@ -45,6 +34,17 @@ In order to be an active member (and to get the full benefits from our chapter),
 </ul>
 Please fill out this ballot by <b>11:59pm on Friday, March 13, 2015</b>.
 If you have any questions, feel free to message <a href="mailto:melodyd494@gmail.com">Melody</a>
+      </li>
+      <br />
+      <li>
+        <b> All-House Competition </b> <br />
+        The <b>house roster</b> for the Spring 2015 Cycle is now available and can be found 
+        <a href="resources/House_SP2015.pdf">here</a> (also located under the Initiation tab). 
+        If you could not make it to House Sorting, please check the house roster to see which 
+        house you are a part of. Also be sure to support your house by 
+        earning points through house events and the All-House Competitions! If your name is not 
+        listed on the roster, please contact <a href="mailto:fcchen@ucsd.edu">Felipe Chen</a> so that he can 
+        sort you into a house as soon as possible. 
       </li>
       <br />
       <li>
@@ -74,49 +74,48 @@ If you have any questions, feel free to message <a href="mailto:melodyd494@gmail
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 9 </b></h3>
+        <h3><b>Week 10</b></h3>
         <hr />
-        <h3><a href="https://www.facebook.com/events/771979606204414">
-          Medtronic Info Session</a></h3>
+        <h3><a href="https://www.facebook.com/events/1545038199079323/">LinkedIn Workshop</a></h3>
         <p>
         Event Type: Professional<br>
-        Wed Mar. 04 | 6:30PM - 8:00PM <br>
-        Location: Fung Auditorium <br>
+        Wed Mar. 11 | 5:00PM - 6:00PM <br>
+        Location: EBU1 Rm 4309 <br>
         </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Mar. 06 | 8:30AM - 10:30AM <br>
+        Fri Mar. 13 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a><br>
+        </p>
+        <hr />
+        <h3><a href="https://www.facebook.com/events/1547455508837157/">Tau Beta Pi(e) Day</a></h3>
+        <p>
+        Event Type: Social/Community Service<br>
+        Fri Mar. 13 | 12:00PM - 6:00PM <br>
+        Location: Bear Courtyard
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Mar. 06 | 5:00PM - 6:00PM <br>
+        Fri Mar. 13 | 5:00PM - 6:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3>Green House Board Game Night</h3>
+        <h3>TBP Finals Study Party</h3>
         <p>
-        Event Type: House<br>
-        Fri Mar. 06 | 6:00PM - 8:00PM <br>
-        Location: Price Center - Tapioca Express<br>
+        Event Type: Social/Academic<br>
+        Sat Mar. 14 | 10:00AM - 2:00PM <br>
+        Location: Marshall and ERC Rooms in PC
         </p>
         <hr />
-        <h3>Point Loma Plant Gardening</h3>
+        <h3>TBP Finals Study Party</h3>
         <p>
-        Event Type: Community Service<br>
-        Sat Mar. 07 | 9:00AM - 11:00AM <br>
-        Location: Meet at Peterson Loop at <b>8:15AM</b><br>
-        </p>
-        <hr />
-        <h3>Red House Movie Night</h3>
-        <p>
-        Event Type: House<br>
-        Sat Mar. 07 | 5:00PM - 8:00PM <br>
-        Location: TBA<br>
+        Event Type: Social/Academic<br>
+        Sat Mar. 15 | 12:00PM - 4:00PM <br>
+        Location: Marshall and ERC Rooms in PC
         </p>
         <hr />
         </section>
