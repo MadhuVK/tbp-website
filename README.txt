@@ -2,8 +2,6 @@ Tau Beta Pi Website (2014-2015)
 
 Author: Madhu Krishnan
 
-Currently under construction
-
 Credits:
 
         Design:

@@ -284,7 +284,7 @@ Hello! I'm Ayesha, a fourth year Computer Science major and Tau Beta Pi's Histor
           </p>
           <div class="bio">
             <h5>
-              Hey! I'm Madhu and I'm a third year double major in Computer Science and Applied Math. I'm a huge nerd for anything math related, and can probably lay down more stupid math jokes than you thought possible. I also enjoy listening to hip-hop (still waiting on that Pimp Trick Gangsta Clique album), discussing politics, playing tennis, and I'm currently training for a half-marathon. I thank Lil B everyday. #tybg    </h5>
+              Hey! I'm Madhu and I'm a third year double major in Computer Science and Applied Math. I'm a huge nerd for anything math related, and can probably lay down more bad math jokes than you thought possible. I also enjoy listening to hip-hop (still waiting on that Pimp Trick Gangsta Clique album), discussing politics, playing tennis, and I'm currently training for a half-marathon. I thank Lil B everyday. #tybg    </h5>
             </div>
           </section>
       </div>

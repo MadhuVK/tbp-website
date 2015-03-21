@@ -41,7 +41,7 @@
 					<h3><u>Candidate Packages</u></h3>
 
 					<p>
-						The following materials should be collected in a 9″x12″ envelope with your name, major, and year on the front. Submit to the Tau Beta Pi Mailbox on the third floor of Price Center East (ask the Onestop desk if you need help finding it). The submission deadline for the current Initiation Cycle is <b>TBA</b>.
+						The following materials should be collected in a 9″x12″ envelope with your name, major, and year on the front. Submit to the Tau Beta Pi Mailbox on the third floor of Price Center East (ask the Onestop desk if you need help finding it). The submission deadline for the current Initiation Cycle is <b>April 3, 2015 at 6:30PM</b>.
 
             <ul>
 
@@ -50,7 +50,7 @@
                 <a href="javascript:void(0)">Personal Statement:</a>
               </span>
               <div class="node-contents">
-                In approximately one page (single-spaced), please describe yourself in order to give the selection panel an idea of your interests. Please include information on why you would like to join Tau Beta Pi, and what you can contribute to this organization.
+                In approximately one page (single-spaced), please describe yourself in order to give the selection panel an idea of your interests. Please include information on why you would like to join Tau Beta Pi, and what you can contribute to this organization. 
               </div>
             </li>
 
@@ -91,8 +91,10 @@
             </li>
           </ul>
 
-          All required documents can be found in <a href="resources/packet.zip">this archive</a> (also found under the Resources tab).
+          Sample Resume <a href="resources/packet/Sample_Resume.pdf">1</a> <br />
+          Sample Personal Statement <a href="resources/packet/Sample_Statement.pdf">1</a> <br /><br />
 
+          All required documents can be found in <a href="resources/packet.zip">this archive</a> (also found under the Resources tab). 
 					</p>
 
 				</section>
@@ -119,7 +121,7 @@
 				<section>
 					<h3><u>Initation Ceremony</u></h3>
 					<p><b>Initiation is mandatory!</b> Any eligible initiate unable to make it to initiation will not be able to initiate this term! A one-time lifetime membership fee of $100</b> (made payable to “UCSD Tau Beta Pi”) is due on the night of Initiation. This fee covers chapter operating costs, dues to TBP national headquarters, cost of Initiation materials, and the initiate banquet. <b> Business attire is required. </b> Anyone who is not dressed appropriately will not be able to take part in the ceremony. 
-					The date of the Initiation Ceremony for the Spring Cycle is <b>TBA</b>.
+					The date of the Initiation Ceremony for the Spring Cycle is <b>May 1, 2015</b>.
 					</p>
 				</section>
 			</section>
