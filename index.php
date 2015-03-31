@@ -17,7 +17,7 @@
     <h2>Tau Beta Pi, California Psi</h2>
     <p>The Premier Engineering Honor Society at UCSD</p>
     <ul class="actions">
-      <li><a href="events" class="button special"><b>Week 10 Announcements</b></a></li>
+      <li><a href="events" class="button special"><b>Week 1 Announcements</b></a></li>
     </ul>
   </section>
 

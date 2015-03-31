@@ -20,7 +20,7 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 10 Announcements</u></h2>
+    <h2><u>Week 1 Announcements</u></h2>
     </section>
     <ol>
       <li>
@@ -74,49 +74,40 @@ If you have any questions, feel free to message <a href="mailto:melodyd494@gmail
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 10</b></h3>
+        <h3><b>Week 1</b></h3>
         <hr />
-        <h3><a href="https://www.facebook.com/events/1545038199079323/">LinkedIn Workshop</a></h3>
+        <h3><a href="https://www.facebook.com/events/1415290735441633/">Red Bull Paper Wings Volunteering</a></h3>
+        <p>
+        Event Type: Community Service<br>
+        Wed Apr. 1 | 2:00PM - 5:00PM <br>
+        Location: Main Gym <br>
+        </p>
+        <hr />
+        <h3>Resume Critique</h3>
         <p>
         Event Type: Professional<br>
-        Wed Mar. 11 | 5:00PM - 6:00PM <br>
-        Location: EBU1 Rm 4309 <br>
-        </p>
-        <hr />
-        <h3>Florence Elementary</h3>
-        <p>
-        Event Type: Outreach<br>
-        Fri Mar. 13 | 8:30AM - 10:30AM <br>
-        Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a><br>
-        </p>
-        <hr />
-        <h3><a href="https://www.facebook.com/events/1547455508837157/">Tau Beta Pi(e) Day</a></h3>
-        <p>
-        Event Type: Social/Community Service<br>
-        Fri Mar. 13 | 12:00PM - 6:00PM <br>
-        Location: Bear Courtyard
+        Wed Apr. 1 | 7:00PM - 8:00PM <br>
+        Location: TBD
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Mar. 13 | 5:00PM - 6:00PM <br>
+        Fri Apr. 3 | 4:00PM - 5:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3>TBP Finals Study Party</h3>
+        <h3>Triton Day Tabling</h3>
         <p>
-        Event Type: Social/Academic<br>
-        Sat Mar. 14 | 10:00AM - 2:00PM <br>
-        Location: Marshall and ERC Rooms in PC
-        </p>
+        Event Type: Community Service<br>
+        Sat Apr. 4 | 9:00AM - 2:00PM <br>
+        Location: Town Center Area (by Student Services)
         <hr />
-        <h3>TBP Finals Study Party</h3>
+        <h3>LinkedIn Workshop</h3>
         <p>
-        Event Type: Social/Academic<br>
-        Sat Mar. 15 | 12:00PM - 4:00PM <br>
-        Location: Marshall and ERC Rooms in PC
-        </p>
+        Event Type: Professional<br>
+        Thur Apr. 9 | 6:00PM - 7:00PM <br>
+        Location: EBU1 4309
         <hr />
         </section>
     </div>

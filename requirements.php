@@ -92,7 +92,7 @@
           </ul>
 
           Sample Resume <a href="resources/packet/Sample_Resume.pdf">1</a> <br />
-          Sample Personal Statement <a href="resources/packet/Sample_Statement.pdf">1</a> <br /><br />
+          Sample Personal Statement <a href="resources/packet/Sample_Statement.pdf">1</a> &nbsp; <a href="resources/packet/Sample_Statement2.pdf">2</a><br /><br />
 
           All required documents can be found in <a href="resources/packet.zip">this archive</a> (also found under the Resources tab). 
 					</p>
