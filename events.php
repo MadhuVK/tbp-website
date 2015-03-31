@@ -24,27 +24,33 @@
     </section>
     <ol>
       <li>
-        <b> <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">Ratification Ballot (DUE FRIDAY)</a> (Required to be an active member) </b> <br />
-        We need you to vote on the annual TBP Ratification Ballot for proposed amendments to the national TBP Constitution and Bylaws. The responses from these ballots are required by all national TBP chapters so it is important that you vote <a href="https://docs.google.com/forms/d/1a3NRH7WzXrUF5YXcHm9SRv4a2JRJmAUeVRSO0V4URh4/viewform">here</a>. 
-In order to be an active member (and to get the full benefits from our chapter), you will need to vote on the proposed amendments in addition to the point requirement.  
-<br /><br />The following are links to the Convention Minutes with the proposed amendments and the official Ratification Ballot (for reference only):
-<ul>
-<li><a href="http://www.tbp.org/conv/2014/2014-Minutes.pdf">Convention Minutes</a></li>
-<li><a href="http://www.tbp.org/conv/2014/2014-Ratification-Ballot.pdf">Ratification Ballot</a></li>
+        <b> Candidate Packages DUE (by 6:30PM Friday, April 3</b> <br />
+        For all TBP initiates, the following materials should be collected in a 9”x12” envelope with your name, major, and year on the front: 
+        <ul>
+<li>-Personal Statement</li>
+<li>-Current Resume</li>
+<li>-2 Faculty Ratings</li>
+<li>-Academic Honesty Statement</li>
+<li>-Class Checklist</li>
 </ul>
-Please fill out this ballot by <b>11:59pm on Friday, March 13, 2015</b>.
-If you have any questions, feel free to message <a href="mailto:melodyd494@gmail.com">Melody</a>
+Further details and instructions can be found on our website <a href="requirements">here</a>.
+
+Please submit it to the Tau Beta Pi Mailbox on the third floor of Price Center East  (ask the Onestop desk if you need help finding it) by 6:30pm on Friday, April 3, 2015.  
+If you have any questions, feel free to message <a href="mailto:acn004@ucsd.edu">Anthony</a>.
       </li>
       <br />
       <li>
-        <b> All-House Competition </b> <br />
-        The <b>house roster</b> for the Spring 2015 Cycle is now available and can be found 
-        <a href="resources/House_SP2015.pdf">here</a> (also located under the Initiation tab). 
-        If you could not make it to House Sorting, please check the house roster to see which 
-        house you are a part of. Also be sure to support your house by 
-        earning points through house events and the All-House Competitions! If your name is not 
-        listed on the roster, please contact <a href="mailto:fcchen@ucsd.edu">Felipe Chen</a> so that he can 
-        sort you into a house as soon as possible. 
+        <b> IM Dodgeball Availability </b> <br />
+        If you are interested in participating in IM Dodgeball this quarter, fill out your availability in your respective Facebook groups! <br />
+<a href="https://www.facebook.com/groups/844605288934403/permalink/873087856086146/?qa_ref=pp">2015 Winter/Spring initiates</a> <br />
+<a href="https://www.facebook.com/groups/tbp.ucsd/permalink/907761445953159/?qa_ref=pp">Current TBP members</a> <br />
+      </li>
+      <br />
+      <li>
+        <b> <a href="http://goo.gl/forms/uxkEPb1GRc">2015 Spring Conference RSVP</b></a> <br />
+        District 16 of Tau Beta Pi (which consists of Southern California and Las Vegas) is having their annual Spring Conference on April 18th at Loyola Marymount University. Spring Conference is a workshop meant to help improve leadership skills and chapters in general, and is geared towards current officers (to share their wisdom) and future officers (to apply said wisdom). Attendance at this conference is highly recommended for anyone thinking of becoming an officer next year. This is one of the few opportunities for you to meet members from other chapters and even officers from TBP headquarters! 
+This is a full-day event, beginning around 9am until approximately 5:30pm, with optional dinner immediately following.
+You must <b>RSVP by 11:59pm on Tuesday, April 7th</b> if you are interested in going.
       </li>
       <br />
       <li>
