@@ -92,8 +92,8 @@ You must <b>RSVP by 11:59pm on Tuesday, April 7th</b> if you are interested in g
         <h3>Resume Critique</h3>
         <p>
         Event Type: Professional<br>
-        Wed Apr. 1 | 7:00PM - 8:00PM <br>
-        Location: TBD
+        Wed Apr. 1 | 8:00PM - 9:00PM <br>
+        Location: EBU1 4309
         </p>
         <hr />
         <h3>Weekly Pool</h3>
