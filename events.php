@@ -108,11 +108,17 @@ Graduating in Spring 2015 and would like some TBP swag to spruce up your boring 
         Sat Apr. 11 | 12:30PM - 3:30PM <br>
         Location: TBP Bent
         <hr />
-        <h3><a href="https://www.facebook.com/events/794733437265100/?__mref=message_bubble">Engineered to Thrill</a></h3>
+        <h3><a href="https://www.facebook.com/events/794733437265100/">Engineered to Thrill</a></h3>
         <p>
         Event Type: Social<br>
         Sun Apr. 12 | 12:00PM - 5:30PM <br>
         Location: Contact <a href="mailto:rhsiao@ucsd.edu">Richard Hsiao</a>
+        <hr />
+        <h3><a href="https://www.facebook.com/events/341793869343738/">Undergraduate Internship Panel</a></h3>
+        <p>
+        Event Type: Professional<br>
+        Wed Apr. 15 | 7:00PM - 8:30PM<br>
+        Location: TBA</a>
         <hr />
         </section>
     </div>
