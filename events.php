@@ -20,22 +20,17 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 2 Announcements</u></h2>
+    <h2><u>Week 3 Announcements</u></h2>
     </section>
     <ol>
       <li>
-        <b> <a href="http://goo.gl/forms/uxkEPb1GRc">2015 Spring Conference RSVP</b></a> <br />
-        District 16 of Tau Beta Pi (which consists of Southern California and Las Vegas) is having their annual Spring Conference on April 18th at Loyola Marymount University. Spring Conference is a workshop meant to help improve leadership skills and chapters in general, and is geared towards current officers (to share their wisdom) and future officers (to apply said wisdom). Attendance at this conference is highly recommended for anyone thinking of becoming an officer next year. This is one of the few opportunities for you to meet members from other chapters and even officers from TBP headquarters! 
-This is a full-day event, beginning around 9am until approximately 5:30pm, with optional dinner immediately following.
-You must <b>RSVP by 11:59pm on Tuesday, April 7th</b> if you are interested in going.
-      </li>
-      <br />
-      <li>
-      <b> Rent Stoles and Cords </b> <br />
-Graduating in Spring 2015 and would like some TBP swag to spruce up your boring gown? Look no further! Distinguish yourself when you walk the stage with an official Tau Beta Pi stole and cords! Keep an eye out for an upcoming order/rental form for TBP stoles and cords in the next week or two!
+      <b> Stoles and Cords Order Form </b> <br />
+Graduating in Spring 2015 and would like some TBP swag to spruce up your boring gown?
+Look no further! Distinguish yourself when you walk the stage with an official Tau Beta Pi stole and cords! 
 <br />
+<a href="http://goo.gl/forms/Qd0Lc86VDj">Order Form</a><br/>
 <a href="http://tbp.org/Images/GeneralStore/Full/Stole1.gif">Image of the stole</a> <br />
-<a href="http://tbp.org/Images/GeneralStore/Full/X.gif">Image of the cords</a>
+<a href="http://tbp.org/Images/GeneralStore/Full/X.gif">Image of the cords</a> <br/>
       </li>
       <br />
       <li>
@@ -65,60 +60,48 @@ Graduating in Spring 2015 and would like some TBP swag to spruce up your boring 
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 2</b></h3>
+        <h3><b>Week 3</b></h3>
         <hr />
-        <h3>Spring Triton Career Fair</h3>
+        <h3>HKN/TBP Coffee Hour</h3>
         <p>
         Event Type: Professional<br>
-        Wed Apr. 8 | 10:00AM - 2:30PM <br>
-        Location: Price Center Ballrooms West and East<br>
+        Wed Apr. 15 | 10:30AM - 12:30PM <br>
+        Location: Henry Booker Room, EBU1 <br>
         </p>
         <hr />
-        <h3><a href="https://docs.google.com/forms/d/1nYOzz_MdErHVbfKbdCcjZQF2TTDHdtGfntdDY5lw7KU/viewform">San Diego Food Bank</a></h3>
-        <p>
-        Event Type: Community Service<br>
-        Wed Apr. 8 | 6:00PM - 8:00PM <br>
-        Location: <b> TBP Bent at 5:15PM </b><br>
-        </p>
-        <hr />
-        <h3><a href="https://www.facebook.com/events/1618591531719537/">LinkedIn Workshop (II)</a></h3>
+        <h3><a href="https://www.facebook.com/events/341793869343738/">Undergraduate Internship Panel</a></h3>
         <p>
         Event Type: Professional<br>
-        Thur Apr. 9 | 6:00PM - 7:00PM <br>
-        Location: EBU1 4309
+        Wed Apr. 15 | 7:00PM - 8:30PM <br>
+        Location: EBU2 Rm 479
+        </p>
+        <hr />
+        <h3><a href="https://www.facebook.com/events/1644148029149013/">Dexcom Info Session</a></h3>
+        <p>
+        Event Type: Professional<br>
+        Thu Apr. 16 | 6:30PM - 8:30PM <br>
+        Location: TBA</a>
         </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Apr. 10 | 8:30AM - 10:30AM <br>
+        Fri Apr. 17 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Apr. 10 | 4:00PM - 5:00PM <br>
+        Fri Apr. 17 | 4:00PM - 5:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3><a href="https://www.facebook.com/events/966302810080627/">The Great Puzzle Scavenger Hunt</a></h3>
+        <h3>2015 Spring Conference</h3>
         <p>
-        Event Type: All-House Competition<br>
-        Sat Apr. 11 | 12:30PM - 3:30PM <br>
-        Location: TBP Bent
-        <hr />
-        <h3><a href="https://www.facebook.com/events/794733437265100/">Engineered to Thrill</a></h3>
-        <p>
-        Event Type: Social<br>
-        Sun Apr. 12 | 12:00PM - 5:30PM <br>
-        Location: Contact <a href="mailto:rhsiao@ucsd.edu">Richard Hsiao</a>
-        <hr />
-        <h3><a href="https://www.facebook.com/events/341793869343738/">Undergraduate Internship Panel</a></h3>
-        <p>
-        Event Type: Professional<br>
-        Wed Apr. 15 | 7:00PM - 8:30PM<br>
-        Location: TBA</a>
+        Event Type: Academic/Social<br>
+        Sat Apr. 18 | 7:00AM - 9:00PM<br>
+        Location: Contact <a href="mailto:tkyi@ucsd.edu">Tiffany Kyi</a> 
         <hr />
         </section>
     </div>
