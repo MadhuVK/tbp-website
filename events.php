@@ -20,7 +20,7 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 3 Announcements</u></h2>
+    <h2><u>Week 4 Announcements</u></h2>
     </section>
     <ol>
       <li>
@@ -60,33 +60,18 @@ Look no further! Distinguish yourself when you walk the stage with an official T
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 3</b></h3>
-        <hr />
-        <h3>HKN/TBP Coffee Hour</h3>
+        <h3><b>Week 4</b></h3>
+        <h3>Intramural Dodgeball</h3>
         <p>
-        Event Type: Professional<br>
-        Wed Apr. 15 | 10:30AM - 12:30PM <br>
-        Location: Henry Booker Room, EBU1 <br>
-        </p>
-        <hr />
-        <h3><a href="https://www.facebook.com/events/341793869343738/">Undergraduate Internship Panel</a></h3>
-        <p>
-        Event Type: Professional<br>
-        Wed Apr. 15 | 7:00PM - 8:30PM <br>
-        Location: EBU2 Rm 479
-        </p>
-        <hr />
-        <h3><a href="https://www.facebook.com/events/1644148029149013/">Dexcom Info Session</a></h3>
-        <p>
-        Event Type: Professional<br>
-        Thu Apr. 16 | 6:30PM - 8:30PM <br>
-        Location: TBA</a>
+        Event Type: Social<br>
+        Tue Apr. 21 | 7:00PM - 8:00PM <br>
+        Location: RIMAC</a>
         </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Apr. 17 | 8:30AM - 10:30AM <br>
+        Fri Apr. 24 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
         </p>
         <hr />
@@ -97,11 +82,17 @@ Look no further! Distinguish yourself when you walk the stage with an official T
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3>2015 Spring Conference</h3>
+        <h3><a href="http://goo.gl/forms/O6RtcHl8bu">Creek to Bay River Cleanup</a></h3>
         <p>
-        Event Type: Academic/Social<br>
-        Sat Apr. 18 | 7:00AM - 9:00PM<br>
-        Location: Contact <a href="mailto:tkyi@ucsd.edu">Tiffany Kyi</a> 
+        Event Type: Community Service<br>
+        Sat Apr. 25 | 8:00AM - 12:00PM<br>
+        Location: Peterson Loop at 8AM for rides
+        <hr />
+        <h3><a href="https://www.facebook.com/events/299386720185107/">Beach Decathalon</a></h3>
+        <p>
+        Event Type: Social<br>
+        Sat Apr. 25 | 4:00PM - 9:00PM<br>
+        Location: Back of EBU1 for rides at 3:30PM
         <hr />
         </section>
     </div>
