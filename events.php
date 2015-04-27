@@ -20,9 +20,24 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 4 Announcements</u></h2>
+    <h2><u>Week 5 Announcements</u></h2>
     </section>
     <ol>
+      <li>
+        <b> Faculty of the Year Nominations </b> <br />
+        Each year Tau Beta Pi recognizes a Faculty of the Year 
+        who has positively influenced and developed the lives of 
+        young engineers. If you know of a professor who is deserving 
+        of this honor, please nominate them for this award. 
+        The award will be presented at 
+        Tau Beta Pi's Annual End-of-the-Year Banquet on the e
+        vening of May 29th. You may make up to three nominations. 
+        Nominations are <b>due by 11:59pm on Thursday, May 7th</b>. 
+        Voting will take place right after officer elections. 
+        If you have someone in mind you would like to nominate, 
+        please fill out the nomination form <a href="http://goo.gl/forms/GHZlyx2YyH">here </a>.
+      </li>
+      <br />
       <li>
       <b> Stoles and Cords Order Form </b> <br />
 Graduating in Spring 2015 and would like some TBP swag to spruce up your boring gown?
@@ -60,39 +75,40 @@ Look no further! Distinguish yourself when you walk the stage with an official T
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 4</b></h3>
+        <h3><b>Week 5</b></h3>
         <h3>Intramural Dodgeball</h3>
         <p>
         Event Type: Social<br>
-        Tue Apr. 21 | 7:00PM - 8:00PM <br>
+        Tue Apr. 28 | 7:00PM - 8:00PM <br>
         Location: RIMAC</a>
+        </p>
+        <hr />
+        <h3>Bent Polishing</h3>
+        <p>
+        Event Type: Wildcard<br>
+        Wed Apr. 29 | 11:00AM - 2:00PM <br>
+        Location: TBP Bent (EBUI Entrance)</a>
         </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri Apr. 24 | 8:30AM - 10:30AM <br>
+        Fri May 1 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri Apr. 17 | 4:00PM - 5:00PM <br>
+        Fri May 1 | 4:00PM - 5:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3><a href="http://goo.gl/forms/O6RtcHl8bu">Creek to Bay River Cleanup</a></h3>
+        <h3>2015 Spring Initiation Ceremony</h3>
         <p>
-        Event Type: Community Service<br>
-        Sat Apr. 25 | 8:00AM - 12:00PM<br>
-        Location: Peterson Loop at 8AM for rides
-        <hr />
-        <h3><a href="https://www.facebook.com/events/299386720185107/">Beach Decathalon</a></h3>
-        <p>
-        Event Type: Social<br>
-        Sat Apr. 25 | 4:00PM - 9:00PM<br>
-        Location: Back of EBU1 for rides at 3:30PM
+        Event Type: <b> Mandatory for initiates </b><br>
+        Fri May. 1 | 6:30PM - 9:30PM<br>
+        Location: TBP Bent (EBUI Entrance)
         <hr />
         </section>
     </div>
