@@ -24,6 +24,18 @@
     </section>
     <ol>
       <li>
+        <b><a href="elections">2015-2016 Officer Elections</a></b> <br />
+        Interested in joining Tau Beta Pi’s Officer Team for the 
+        2015-2016 year? Being a part of the Tau Beta Pi Officer Team 
+        is a fantastic way to gain leadership experience and help shape 
+        the TBP Community at UCSD. Elections will take place after 
+        Initiation, so even if you are currently an Initiate, it is 
+        still possible for you to run for a position. 
+        Check out the list of available positions and their descriptions 
+        <a href="elections">here</a>. Also be sure to come to the open officer events where you can learn more about being an Officer of TBP. 
+      </li>
+      <br />
+      <li>
         <b> Faculty of the Year Nominations </b> <br />
         Each year Tau Beta Pi recognizes a Faculty of the Year 
         who has positively influenced and developed the lives of 
@@ -90,6 +102,13 @@ Look no further! Distinguish yourself when you walk the stage with an official T
         Location: TBP Bent (EBUI Entrance)</a>
         </p>
         <hr />
+        <h3>Officer Meet and Greet</h3>
+        <p>
+        Event Type: TBA<br>
+        Thu Apr. 30 | 3:00PM - 5:00PM <br>
+        Location: TBP Bent (EBUI Entrance)</a>
+        </p>
+        <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
@@ -109,6 +128,18 @@ Look no further! Distinguish yourself when you walk the stage with an official T
         Event Type: <b> Mandatory for initiates </b><br>
         Fri May. 1 | 6:30PM - 9:30PM<br>
         Location: TBP Bent (EBUI Entrance)
+        <hr />
+        <h3>Open Officer Meeting</h3>
+        <p>
+        Event Type: TBA<br>
+        Mon May. 4 | 8:00PM - 9:00PM<br>
+        Location: CSE 2217
+        <hr />
+        <h3>TBP Officer Elections</h3>
+        <p>
+        Event Type: TBA<br>
+        Thu May. 7 | 7:00PM - 9:00PM<br>
+        Location: TBD
         <hr />
         </section>
     </div>
