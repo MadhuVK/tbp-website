@@ -182,6 +182,10 @@
         Thu May. 7 | 7:00PM - 9:00PM<br>
         Location: TBD
         <hr />
+        <h4><b>TBP Officer Retreat</b></h4>
+        <p>
+        May. 15-17 | Week 7<br>
+        <hr />
 				</section>
 			</div>
 		</section>
