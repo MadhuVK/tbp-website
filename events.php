@@ -20,7 +20,7 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 5 Announcements</u></h2>
+    <h2><u>Week 6 Announcements</u></h2>
     </section>
     <ol>
       <li>
@@ -33,6 +33,14 @@
         still possible for you to run for a position. 
         Check out the list of available positions and their descriptions 
         <a href="elections">here</a>. Also be sure to come to the open officer events where you can learn more about being an Officer of TBP. 
+      </li>
+      <br />
+      <li>
+        <b><a href="https://docs.google.com/spreadsheets/d/1dSAtaa_xJRLJbOFhcin4cr7EumNL1XjfAjvn7qQf9lg/edit#gid=0">Triton 3D Make-A-Thon Volunteering</a></b> <br/>
+        A new student org called Triton 3D is host a Make-athon on May 16th-17th. This is a two-day competition where teams of students will collaborate, design, and 3D-print entries to fulfill a specific design goal. They are currently in need of volunteers to help out during the event! Sign up if you are interested. 
+        If you have any questions, please contact <a href="mailto:c1yan@ucsd.edu">Crystal</a>.
+        <br />
+        Sign up <a href="https://docs.google.com/spreadsheets/d/1dSAtaa_xJRLJbOFhcin4cr7EumNL1XjfAjvn7qQf9lg/edit#gid=0">here</a>.
       </li>
       <br />
       <li>
@@ -87,59 +95,45 @@ Look no further! Distinguish yourself when you walk the stage with an official T
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 5</b></h3>
+        <h3><b>Week 6</b></h3>
+        <h3>Open Officer Meeting</h3>
+        <p>
+        Event Type: Academic<br>
+        Mon May 4 | 8:00PM - 9:00PM<br>
+        Location: CSE 2217
+        <hr />
         <h3>Intramural Dodgeball</h3>
         <p>
         Event Type: Social<br>
-        Tue Apr. 28 | 7:00PM - 8:00PM <br>
+        Tue May 5 | 7:00PM - 8:00PM <br>
         Location: RIMAC</a>
         </p>
         <hr />
-        <h3>Bent Polishing</h3>
+        <h3>TBP Officer Elections</h3>
         <p>
-        Event Type: Wildcard<br>
-        Wed Apr. 29 | 11:00AM - 2:00PM <br>
-        Location: TBP Bent (EBUI Entrance)</a>
-        </p>
-        <hr />
-        <h3>Officer Meet and Greet</h3>
-        <p>
-        Event Type: TBA<br>
-        Thu Apr. 30 | 3:00PM - 5:00PM <br>
-        Location: TBP Bent (EBUI Entrance)</a>
-        </p>
+        Event Type: Academic/Social<br>
+        Thu May 7 | 7:00PM - 9:00PM<br>
+        Location: TBD
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri May 1 | 8:30AM - 10:30AM <br>
+        Fri May 8 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri May 1 | 4:00PM - 5:00PM <br>
+        Fri May 8 | 4:00PM - 5:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3>2015 Spring Initiation Ceremony</h3>
+        <h3><a href="https://www.facebook.com/events/652962701505513/">Tau Beta Potluck and Movie</a></h3>
         <p>
-        Event Type: <b> Mandatory for initiates </b><br>
-        Fri May. 1 | 6:30PM - 9:30PM<br>
-        Location: TBP Bent (EBUI Entrance)
-        <hr />
-        <h3>Open Officer Meeting</h3>
-        <p>
-        Event Type: TBA<br>
-        Mon May. 4 | 8:00PM - 9:00PM<br>
-        Location: CSE 2217
-        <hr />
-        <h3>TBP Officer Elections</h3>
-        <p>
-        Event Type: TBA<br>
-        Thu May. 7 | 7:00PM - 9:00PM<br>
-        Location: TBD
+        Event Type: Social
+        Sun May 10 | 6:30PM - 9:30PM<br>
+        Location: TBA
         <hr />
         </section>
     </div>
