@@ -23,9 +23,9 @@
 			<h3>Overview</h3>
 			<p>The UC San Diego Chapter of Tau Beta Pi conducts two Initiations per academic year. 
         Invitations to eligible students are mailed out during Weeks 3 and 4 of the Fall and Winter 
-        academic quarters to shtudents in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. 
+        academic quarters to students in the <b>top 1/8th of the Junior class</b> and <b>top 1/5th of the Senior class</b>. 
         For students to have Junior Class standing, they must have completed 90-135 units. To qualify for Senior Class standing, 
-        students must have completed over 135 units. 
+        students must have completed over 135 units. In addition, students must have attended UCSD for at least one full academic year.
         <br /><br />After invitations are sent out, info sessions are held for the the invited students 
         to inform them about the initiation process to become a member. During the Initiation Cycle (approximately a 10 week period), we look 
         for two main things when electing new members into TBP. The first is academic excellence, which all of you have obviously attained. 
