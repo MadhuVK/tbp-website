@@ -1,4 +1,5 @@
 RedirectMatch 404 "(?:.*)/(?:\.git|file_or_dir)(?:/.*)?$"
+RedirectMatch 404 elections.php
 DirectoryIndex index.php
 RewriteEngine On
 RewriteRule ^blog\.php$ / [R=301,L]
