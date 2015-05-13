@@ -23,7 +23,6 @@
     <li><a class="icon fa-angle-down">Events</a>
       <ul>
         <li><a href="events">Overview and Calendar</a></li>
-        <li><a href="elections">2015-2016 Officer Elections</a></li>
         <li><a href="florence">Florence</a></li>
         <li><a href="#">Tutoring (Coming Soon)</a></li>
       </ul>
