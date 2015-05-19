@@ -20,23 +20,23 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 7 Announcements</u></h2>
+    <h2><u>Week 8 Announcements</u></h2>
     </section>
     <ol>
       <li>
         <b><a href="images/officers/officers_1516.png">Congratulations to our new Officers!</a></b> <br />
       </li>
-      <br />
+      <br>
       <li>
-      <b> Stoles and Cords Order Form </b> <br />
-Graduating in Spring 2015 and would like some TBP swag to spruce up your boring gown?
-Look no further! Distinguish yourself when you walk the stage with an official Tau Beta Pi stole and cords! 
-<br />
-<a href="http://goo.gl/forms/Qd0Lc86VDj">Order Form</a><br/>
-<a href="http://tbp.org/Images/GeneralStore/Full/Stole1.gif">Image of the stole</a> <br />
-<a href="http://tbp.org/Images/GeneralStore/Full/X.gif">Image of the cords</a> <br/>
+      <b> Faculty of the Year </b> <br />
+Each year Tau Beta Pi identifies Faculty of the Year who has positively influenced and developed the lives of young engineers. The votes are in, and this year Tau Beta Pi recognizes <b>Professor Voelker</b>, <b>Dr. Silva</b>, and <b>Dr. Pasquale</b> as outstanding faculty at UC San Diego. Awards will be presented at the End-of-the-Year Banquet.
       </li>
-      <br />
+      <br>
+      <li> <b> Stoles and Cords </b> <br />
+        Stoles and Cords have been ordered and will be distributed at the End-of-the-Year Banquet, so keep an eye out for an email invitation soon!
+      </li>
+
+<br>
       <li>
         <b>Non-TBP Hosted Events for Points</b> <br />
         Events not hosted by Tau Beta Pi or not listed on our calendar, 
@@ -55,39 +55,40 @@ Look no further! Distinguish yourself when you walk the stage with an official T
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 7</b></h3>
-        <h3>Intramural Dodgeball</h3>
+        <h3><b>Week 8/9</b></h3>
+        <h3>Translational Medicine Volunteering</h3>
         <p>
-        Event Type: Social<br>
-        Tue May 12 | 6:00PM - 7:00PM <br>
-        Location: RIMAC</a>
+        Event Type: Community Service<br>
+        Thu May 21 | 9:00AM - 2:15PM <br>
+        Location: Contact <a href="mailto:njethani@ucsd.edu">Neil Jethani</a>
         </p>
         <hr />
         <h3>Florence Elementary</h3>
         <p>
         Event Type: Outreach<br>
-        Fri May 15 | 8:30AM - 10:30AM <br>
+        Fri May 22 | 8:30AM - 10:30AM <br>
         Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
         </p>
         <hr />
         <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Fri May 8 | 4:00PM - 5:00PM <br>
+        Fri May 22 | 4:00PM - 5:00PM <br>
         Location: Price Center Game Room
         </p>
         <hr />
-        <h3>Officer Retreat</h3>
+        <h3><a href="https://www.facebook.com/events/1442925869336679/">End-of-Year Banquet</a></h3>
         <p>
-        Event Type: Social <br>
-        Fri May 15 - Sun May 17  <br>
-        Lake Gregory
+        Event Type: Social<br>
+        Fri May 29 | 6:00PM - 9:00PM <br>
+        Location: TBA
+        </p>
         <hr />
-        <h3><a href="https://docs.google.com/spreadsheets/d/1dSAtaa_xJRLJbOFhcin4cr7EumNL1XjfAjvn7qQf9lg/edit#gid=0">Triton 3D Make-A-Thon Volunteering</a></h3>
+        <h3>TBP Bonfire</h3>
         <p>
-        Event Type: Community Service 
-        Sat May 16 - Sun May 17 <br> 
-        Location: Contact <a href="mailto:c1yan@ucsd.edu">Crystal</a>
+        Event Type: Social<br>
+        Sat May 30 | 5:00PM - 9:00PM <br>
+        Location: La Jolla Shores
         </p>
         </section>
     </div>
