@@ -20,9 +20,13 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 8 Announcements</u></h2>
+    <h2><u>Week 9 Announcements</u></h2>
     </section>
     <ol>
+      <li>
+        <a href="https://www.facebook.com/groups/tbp.ucsd/">For all members, please join our FB page!</a><br />
+      </li>
+      <br>
       <li>
         <b><a href="images/officers/officers_1516.png">Congratulations to our new Officers!</a></b> <br />
       </li>
@@ -55,40 +59,26 @@ Each year Tau Beta Pi identifies Faculty of the Year who has positively influenc
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 8/9</b></h3>
-        <h3>Translational Medicine Volunteering</h3>
-        <p>
-        Event Type: Community Service<br>
-        Thu May 21 | 9:00AM - 2:15PM <br>
-        Location: Contact <a href="mailto:njethani@ucsd.edu">Neil Jethani</a>
-        </p>
-        <hr />
-        <h3>Florence Elementary</h3>
-        <p>
-        Event Type: Outreach<br>
-        Fri May 22 | 8:30AM - 10:30AM <br>
-        Location: Contact <a href="mailto:catrinh@ucsd.edu">Cindy Trinh</a>
-        </p>
-        <hr />
-        <h3>Weekly Pool</h3>
+        <h3><b>Week 9</b></h3>
+        <h3>IM Dodgeball</h3>
         <p>
         Event Type: Social<br>
-        Fri May 22 | 4:00PM - 5:00PM <br>
-        Location: Price Center Game Room
+        Wed May 27 | 6:00PM <br>
+        Location: RIMAC
         </p>
         <hr />
         <h3><a href="https://www.facebook.com/events/1442925869336679/">End-of-Year Banquet</a></h3>
         <p>
         Event Type: Social<br>
         Fri May 29 | 6:00PM - 9:00PM <br>
-        Location: TBA
+        Location: CSE 1202
         </p>
         <hr />
-        <h3>TBP Bonfire</h3>
+        <h3><a href="https://www.facebook.com/events/371437869717114/">TBP Bonfire</a></h3>
         <p>
         Event Type: Social<br>
         Sat May 30 | 5:00PM - 9:00PM <br>
-        Location: La Jolla Shores
+        Location: La Jolla Shores (Meet at Peterson Loop for rides)
         </p>
         </section>
     </div>
