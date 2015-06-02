@@ -20,24 +20,15 @@
     </header>
     <section class="box">
     <section class="major special">
-    <h2><u>Week 9 Announcements</u></h2>
+    <h2><u>Week 10 Announcements</u></h2>
     </section>
     <ol>
       <li>
         <a href="https://www.facebook.com/groups/tbp.ucsd/">For all members, please join our FB page!</a><br />
       </li>
       <br>
-      <li>
-        <b><a href="images/officers/officers_1516.png">Congratulations to our new Officers!</a></b> <br />
-      </li>
-      <br>
-      <li>
-      <b> Faculty of the Year </b> <br />
-Each year Tau Beta Pi identifies Faculty of the Year who has positively influenced and developed the lives of young engineers. The votes are in, and this year Tau Beta Pi recognizes <b>Professor Voelker</b>, <b>Dr. Silva</b>, and <b>Dr. Pasquale</b> as outstanding faculty at UC San Diego. Awards will be presented at the End-of-the-Year Banquet.
-      </li>
-      <br>
       <li> <b> Stoles and Cords </b> <br />
-        Stoles and Cords have been ordered and will be distributed at the End-of-the-Year Banquet, so keep an eye out for an email invitation soon!
+        Stoles and Cords have arrived! Please email <a href="mailto:tyki@ucsd.edu">Tiffany</a> to pick them up if you have not yet.
       </li>
 
 <br>
@@ -59,26 +50,40 @@ Each year Tau Beta Pi identifies Faculty of the Year who has positively influenc
     <div class="row">
       <div class="4u">
         <section class="box align-center" id="upcoming">
-        <h3><b>Week 9</b></h3>
+        <h3><b>Week 10</b></h3>
         <h3>IM Dodgeball</h3>
         <p>
         Event Type: Social<br>
-        Wed May 27 | 6:00PM <br>
+        Tue Jun 2 | 6:00PM <br>
         Location: RIMAC
         </p>
         <hr />
-        <h3><a href="https://www.facebook.com/events/1442925869336679/">End-of-Year Banquet</a></h3>
+        <h3>ECE/CSE Coffee Hour</h3>
         <p>
         Event Type: Social<br>
-        Fri May 29 | 6:00PM - 9:00PM <br>
-        Location: CSE 1202
+        Wed Jun 3 | 1:30PM - 3:30PM <br>
+        Location: Henry Booker, EBUI
         </p>
         <hr />
-        <h3><a href="https://www.facebook.com/events/371437869717114/">TBP Bonfire</a></h3>
+        <h3>Weekly Pool</h3>
         <p>
         Event Type: Social<br>
-        Sat May 30 | 5:00PM - 9:00PM <br>
-        Location: La Jolla Shores (Meet at Peterson Loop for rides)
+        Fri Jun 5 | 4:00PM - 5:00PM <br>
+        Location: Price Center Game Room
+        </p>
+        <hr />
+        <h3>Study Party #1</h3>
+        <p>
+        Event Type: Social<br>
+        Sat Jun 6 | 11:00AM - 3:00PM <br>
+        Location: ERC and Marshall College Rooms
+        </p>
+        <hr />
+        <h3>Study Party #2</h3>
+        <p>
+        Event Type: Social<br>
+        Sun Jun 7 | 10:00 AM - 9:00PM <br>
+        Location: EBU1 4309
         </p>
         </section>
     </div>
