@@ -32,6 +32,7 @@
       <ul>
         <li><a href="officers">Officer Team</a></li>
         <li><a href="contact">Contact Form</a></li>
+        <li><a href="resources/Sponsorship.pdf">Sponsorship Packet</a></li>
       </ul>
     </li>
 
